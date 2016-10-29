@@ -1,0 +1,51 @@
+body {
+  vertical-align: middle;
+  align: center;
+}
+
+tbody {
+  width: 100%;
+  margin: 0 auto;
+  text-align: left;
+  border-collapse: separate;
+  border-spacing: 80px;
+}
+
+body {
+    align: center;
+    vertical-align: middle;
+}
+
+.name {
+  text-align: center;
+  font-size: 40px;
+}
+
+.foto {
+  width: 400px;
+  height: 200px;
+  text-align: center;
+}
+
+.about {
+  text-align: left;
+  font-size: 20px
+}
+
+table tbody tr td {
+  border:5px hidden;
+  border-radius: 20px;
+  padding:15px;
+  margin: auto;
+  align: center;
+  vertical-align: middle;
+}
+
+tfoot {
+  width: 1340px;
+}
+
+.copy {
+  text-align: center;
+  vertical-align: middle;
+}
